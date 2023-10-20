@@ -36,7 +36,7 @@ pip3 install -r requirements.txt
 ## Usage
 
 ```
-$ python3 cloudflare-origin-ip.py <url>
+$ python3 cloudflare-origin-ip.py -u <url>
 ```
 
 ```
